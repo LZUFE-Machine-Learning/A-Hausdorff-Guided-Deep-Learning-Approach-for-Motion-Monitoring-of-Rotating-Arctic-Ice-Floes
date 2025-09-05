@@ -116,16 +116,14 @@ experiment** described in the paper.
     the manuscript due to variations in PyTorch and related library
     versions.
 
-    **Results**
-  -----------------------------------------------------------------------
-  **Method**                 **Matching Pairs**    **Matched Accuracy**
-  -------------------------- --------------------- ----------------------
-  Proposed method            50                    100%
+  ## Results
 
-  SIFT                       15                    40%
+| Method          | Matching Pairs | Matched Accuracy |
+|-----------------|----------------|------------------|
+| Proposed method | 50             | 100%             |
+| SIFT            | 15             | 40%              |
+| A-KAZE          | 19             | 68.42%           |
 
-  A-KAZE                     19                    68.42%
-  -----------------------------------------------------------------------
 
 ## **Acknowledgments**
 
