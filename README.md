@@ -117,7 +117,6 @@ experiment** described in the paper.
     versions.
 
     **Results**
-
   -----------------------------------------------------------------------
   **Method**                 **Matching Pairs**    **Matched Accuracy**
   -------------------------- --------------------- ----------------------
