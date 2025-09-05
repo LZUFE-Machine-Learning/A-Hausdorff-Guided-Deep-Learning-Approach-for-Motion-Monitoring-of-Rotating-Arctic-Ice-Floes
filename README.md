@@ -86,7 +86,7 @@ Options:
 
 -   \--threshold_match: 0.1
 
--   \--lr: 1 × 10−4
+-   \--lr: 1 × 10⁻⁴
 
 -   \--epochs: 500
 
