@@ -13,7 +13,9 @@ Rotating Arctic Ice Floes
     Floes\"]{.underline}](https://ieeexplore.ieee.org/document/9627165).
     More specifically, it is detailed as follow.
 
-    ![](media/image1.emf)**Overview**
+    ![](![Ice floe sample]((https://github.com/LZUFE-Machine-Learning/A-Hausdorff-Guided-Deep-Learning-Approach-for-Motion-Monitoring-of-Rotating-Arctic-Ice-Floes/flow chat.png))
+)
+    **Overview**
 
 This repository provides the implementation of our proposed ice floe
 motion monitoring framework, which integrates **geometric selection**
