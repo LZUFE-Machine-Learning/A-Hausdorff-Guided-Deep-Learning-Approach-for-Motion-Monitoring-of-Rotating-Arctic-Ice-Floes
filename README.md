@@ -27,12 +27,6 @@ and rotational variations in Arctic ice floe imagery.
 The source code is implemented in **PyTorch**, with training and testing
 pipelines designed to reproduce the results reported in our manuscript
 submitted.
-
-**System-specific notes**
-
-The codes were executed in PyCharm 2023.2.5 or later, and tested on
-Windows 10 using Python 3.11.10 with PyTorch 1.6 (CUDA 11.8).
-
 ### **Requirements**
 
 Please ensure the following dependencies are installed:
@@ -88,13 +82,13 @@ python train.py \--feature_dim 256 \--dataset_offline_rebuild 1
 
 Options:
 
--   \--threshold_keypoint: Keypoint detection threshold for SuperPoint
+-   \--threshold_keypoint: 0.001
 
--   \--threshold_match: Matching confidence threshold for SuperGlue
+-   \--threshold_match: 0.1
 
--   \--lr: Learning rate
+-   \--lr: 1 × 10−4
 
--   \--epochs: Training epochs
+-   \--epochs: 500
 
 ## Testing
 
